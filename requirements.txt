@@ -5,3 +5,5 @@ joblib
 plotly
 tensorflow
 scikit-learn
+python-dotenv
+groq
